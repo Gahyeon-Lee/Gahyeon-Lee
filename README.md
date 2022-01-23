@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gahyun&fontSize=90)
-<div align="center">
-  Tech Stack
-</div>
+<h2 align="center">👩🏻‍💻Tech Stack👩🏻‍💻</h2>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gahyun0709&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
