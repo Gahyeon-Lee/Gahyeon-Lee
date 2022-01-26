@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gahyun&fontSize=90)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gahyun Lee&fontSize=90" /></p>
+
 <h2 align="center">👩🏻‍💻Tech Stack👩🏻‍💻</h2>
 
 <p align="center"><strong>Techs that I can use skillfully</strong></p>
