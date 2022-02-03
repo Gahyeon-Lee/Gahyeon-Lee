@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gahyun Lee&fontSize=90" /></p>
 <h2 align="center">👩🏻‍💻Tech Stack👩🏻‍💻</h2>
 
-<p align="center"><strong>Techs that I can use skillfully</strong></p>
-<p align="center"><strong>Techs that I've used at least once</strong></p>
+<!--<p align="center"><strong>Techs that I can use skillfully</strong></p>
+<p align="center"><strong>Techs that I've used at least once</strong></p>-->
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
