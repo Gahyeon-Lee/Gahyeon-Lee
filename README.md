@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 <!--<p align="center"><strong>Techs that I can use skillfully</strong></p>
 <p align="center"><strong>Techs that I've used at least once</strong></p>-->
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+
 </p>
 <p align="center"><strong>Programming Languages I often use</strong></p>
 <p align="center">
