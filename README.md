@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gahyun0709&theme=tokyonight" /></div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ab3380)](https://solved.ac/ab3380/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ab3380">
+
+- 🌱 I’m currently learning `spring boot`
+- 🥇 I majored in Computer Science
+
+### Experience
+
+- 🎓 Sookmyung Women's University (2019.03~2023.02)
+-
+-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Gahyun0709&theme=tokyonight" height="165">
