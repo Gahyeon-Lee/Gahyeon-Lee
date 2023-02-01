@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - 🎓 Sookmyung Women's University (2019.03~2023.02)
 -
 -
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Gahyun0709&theme=transparent" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Gahyun-Lee&theme=transparent" height="165">
