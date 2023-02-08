@@ -13,18 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👩🏻‍💻Tech Stack👩🏻‍💻</h2>
-
-<!--<p align="center"><strong>Techs that I can use skillfully</strong></p>
-<p align="center"><strong>Techs that I've used at least once</strong></p>-->
-<p align="center">
+<h2>👩🏻‍💻Tech Stack👩🏻‍💻</h2>
 
 </p>
-<p align="center"><strong>Programming Languages I often use</strong></p>
-<p align="center">
+<p><strong>Programming Languages I often use</strong></p>
+<p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
+
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ab3380">
 
