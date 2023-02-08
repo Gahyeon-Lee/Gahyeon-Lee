@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">🌱 I’m currently learning Spring boot</h3><br>
 <h2 align="center">👩🏻‍💻Tech Stack👩🏻‍💻</h2>
 
 <!--<p align="center"><strong>Techs that I can use skillfully</strong></p>
