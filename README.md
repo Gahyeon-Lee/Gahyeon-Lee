@@ -33,4 +33,3 @@ Here are some ideas to get you started:
 - 🎓 Sookmyung Women's University (2019.03~2023.02)
 - 👯 J2KB - spring boot study (2022.02~2022.4) 
 - ⚡ 2022 Uni-DTHON (2022.11)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Gahyeon-Lee&theme=transparent" height="165">
